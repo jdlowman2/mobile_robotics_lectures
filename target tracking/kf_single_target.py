@@ -1,3 +1,11 @@
+# Demonstration of Kalman Filter
+# Credit to original MATLAB author:
+# Maani Ghaffari, maanigj@umich.edu
+
+# Python implementation author:
+# Joseph Lowman, lowmanj@umich.edu
+# Date: 1/25/2020
+
 import numpy as np
 from matplotlib import pyplot as plt
 
